@@ -13,6 +13,7 @@
     <PackageReference Include="Newtonsoft.Json.Bson" Version="1.0.3" />
   </ItemGroup>
 
+<<<<<<< HEAD
   <ItemGroup>
     <None Update="Demo.md">
       <Generator>TextTemplatingFileGenerator</Generator>
@@ -32,4 +33,6 @@
     </Compile>
   </ItemGroup>
 
+=======
+>>>>>>> a53e2602dc559d92e84dc132c33a4f5262de6895
 </Project>
